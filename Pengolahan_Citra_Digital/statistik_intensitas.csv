@@ -1,0 +1,9 @@
+﻿Nama Citra,Rata-rata Intensitas,Minimum,Maksimum,Standar Deviasi
+Citra Asli,176.78,0,255,51.38
+Mean Filter 3x3,176.78,0,255,50.51
+Mean Filter 5x5,176.78,1,255,49.54
+Gaussian Filter 3x3,176.81,0,255,50.69
+Gaussian Filter 5x5,176.78,0,255,50.23
+Median Filter 3x3,176.92,0,255,51.07
+Median Filter 5x5,177.25,1,255,50.6
+Sharpening,176.65,0,255,55.86
